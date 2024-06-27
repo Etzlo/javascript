@@ -6,3 +6,4 @@ git - это
 4) git commit -m (message) - 
 5) git push
 6) git checkout -b {name} - ветки ( -b создать)
+7) git pull {имя_репозитория} {ветка}
