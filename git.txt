@@ -1,0 +1,8 @@
+git - это 
+
+1) git init - создать гит (в реакте есть гит, во вью нет)
+2) git add . - добавляем все файлы
+3) git status - посмотреть
+4) git commit -m (message) - 
+5) git push
+6) git checkout -b {name} - ветки ( -b создать)
